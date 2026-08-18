@@ -1,0 +1,6 @@
+name: Homework 1
+on: push
+jobs:
+    echo-
+        runs-on:
+        steps:
